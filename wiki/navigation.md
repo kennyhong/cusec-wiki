@@ -22,6 +22,7 @@
 [Head Delegates](pages/head_delegates.md)
 [Sponsorship](pages/sponsorship.md)
 [Logistics](pages/logistics.md)
+[A/V](pages/av.md)
 [Speakers](pages/speakers.md)
 [Design](pages/design.md)
 [Tech](pages/tech.md)
